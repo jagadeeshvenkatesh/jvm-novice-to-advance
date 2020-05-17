@@ -1,7 +1,10 @@
-# jvm-tuning
-JVM tuning basics 
+# jvm-novice-to-advance
+JVM basics to advance : Learn where you can tune your JVM according to your needs
+
 
 # Basic Knowledge 
+
+# JDK tools 
 
 # Linux Tools
 
@@ -10,3 +13,7 @@ JVM tuning basics
 # Remote Monitoring 
 
 # Agent Attachment
+
+# Thread Analysis 
+
+# Heap Dumps 
