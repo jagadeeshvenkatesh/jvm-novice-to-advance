@@ -1,2 +1,12 @@
-# jvm-novice-to-advance
-JVM basics to advance : Learn where you can tune your JVM according to your needs
+# jvm-tuning
+JVM tuning basics 
+
+# Basic Knowledge 
+
+# Linux Tools
+
+# Windows Tools
+
+# Remote Monitoring 
+
+# Agent Attachment
