@@ -4,6 +4,10 @@ JVM basics to advance : Learn where you can tune your JVM according to your need
 
 # Basic Knowledge 
 
+# Jdk8 
+
+[!jdk8-at-glance](jdk8-at-glance.JPG)
+
 # JDK tools 
 
 # Linux Tools
