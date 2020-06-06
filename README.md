@@ -6,7 +6,7 @@ JVM basics to advance : Learn where you can tune your JVM according to your need
 
 # Jdk8 
 
-[!jdk8-at-glance](./jdk8-at-glance.JPG)
+![jdk8-at-glance](./jdk8-at-glance.JPG)
 
 [Source](https://docs.oracle.com/javase/8/docs/)
 
