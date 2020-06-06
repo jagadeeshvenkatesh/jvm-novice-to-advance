@@ -1,3 +1,0 @@
-# OpenJDK parameters 
-
-# OracleJDK parameters
